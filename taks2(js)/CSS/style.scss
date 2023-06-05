@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    transition: 0,4;
+}
+.task{
+    margin: 40px 70px;
+}
+input{
+    padding: 5px 15px;
+outline: none;
+border-radius: 6px; 
+border: 5px solid rebeccapurple;
+}
+button{
+    height: 25p;
+    width: 37px;
+    outline: none;
+}
